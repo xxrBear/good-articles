@@ -1,6 +1,6 @@
 # 程序员读好文
 
-## 职业生涯
+## 职业素养
 
 - [什么是真正的程序员](https://www.cnblogs.com/xueweihan/p/5220513.html)
 
@@ -9,6 +9,8 @@
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
 - [我认识的最优秀的程序员](https://endler.dev/2025/best-programmers/)
+
+## 技术决策与哲学
 
 - [为什么工程师无法理性看待编程语言](https://spf13.com/p/the-hidden-conversation/)
 
@@ -22,6 +24,8 @@
 
 - [认知负荷才是关键](https://github.com/zakirullin/cognitive-load/blob/main/README.zh-cn.md)
 
+- [我做系统架构的一些原则](https://coolshell.cn/articles/21672.html)
+
 ## 技术故事
 
 - [白話 Session 與 Cookie：從經營雜貨店開始](https://life.huli.tw/2019/08/09/session-and-cookie-15e47ed838bc/)
@@ -30,7 +34,7 @@
 
 - [PostgreSQL正在吞噬数据库世界](https://mp.weixin.qq.com/s?__biz=MzU5ODAyNTM5Ng==&mid=2247487055&idx=1&sn=9d7bd8b6d9b07478dba7f87d0a663535&scene=21&poc_token=HHTs8WijrQRxMUigMWzRVxfO_98-ZlIcZ625m-3R)
 
-## 最佳技术实践
+## 最佳实践
 
 - [缓存更新的套路](https://coolshell.cn/articles/17416.html)
 
