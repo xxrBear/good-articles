@@ -26,6 +26,10 @@
 
 - [我做系统架构的一些原则](https://coolshell.cn/articles/21672.html)
 
+- [没人因简洁而晋升](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+
+- [如何在缺乏动力时完成工作](https://www.simplethread.com/how-to-accomplish-things-when-you-are-not-feeling-it/)
+
 ## 技术故事
 
 - [白話 Session 與 Cookie：從經營雜貨店開始](https://life.huli.tw/2019/08/09/session-and-cookie-15e47ed838bc/)
@@ -34,7 +38,8 @@
 
 - [PostgreSQL正在吞噬数据库世界](https://mp.weixin.qq.com/s?__biz=MzU5ODAyNTM5Ng==&mid=2247487055&idx=1&sn=9d7bd8b6d9b07478dba7f87d0a663535&scene=21&poc_token=HHTs8WijrQRxMUigMWzRVxfO_98-ZlIcZ625m-3R)
 
-## 最佳实践
+
+## 最佳技术实践
 
 - [缓存更新的套路](https://coolshell.cn/articles/17416.html)
 
@@ -43,3 +48,5 @@
 - [宏伟的单体架构](https://signalvnoise.com/svn3/the-majestic-monolith/)
 
 - [为何我们坚持使用 Ruby on Rails](https://about.gitlab.com/blog/why-were-sticking-with-ruby-on-rails/)
+
+- [Instagram 如何仅凭 3 名工程师扩展至 1400 万用户](https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million)
