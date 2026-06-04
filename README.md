@@ -10,6 +10,8 @@
 
 - [我认识的最优秀的程序员](https://endler.dev/2025/best-programmers/)
 
+- [用十年自学编程](https://norvig.com/21-days.html)
+
 ## 技术决策与哲学
 
 - [为什么工程师无法理性看待编程语言](https://spf13.com/p/the-hidden-conversation/)
@@ -29,6 +31,16 @@
 - [没人因简洁而晋升](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 
 - [如何在缺乏动力时完成工作](https://www.simplethread.com/how-to-accomplish-things-when-you-are-not-feeling-it/)
+
+- [理解何时使用 RabbitMQ 或 Apache Kafka](https://blogs.vmware.com/tanzu/understanding-when-to-use-rabbitmq-or-apache-kafka/)
+
+- [设计实用 RESTful API 的最佳实践](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+- [日志的问题](https://blog.codinghorror.com/the-problem-with-logging/)
+
+- [日志记录最佳实践：你应该了解的 13 条准则](https://www.dataset.com/blog/the-10-commandments-of-logging/)
+
+- [你的工作不是编程](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
 
 ## 技术故事
 
