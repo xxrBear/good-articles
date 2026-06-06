@@ -42,6 +42,8 @@
 
 - [你的工作不是编程](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
 
+- [你永远不该做的事，第一部分](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
 ## 技术故事
 
 - [白話 Session 與 Cookie：從經營雜貨店開始](https://life.huli.tw/2019/08/09/session-and-cookie-15e47ed838bc/)
