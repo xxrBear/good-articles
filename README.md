@@ -12,6 +12,10 @@
 
 - [用十年自学编程](https://norvig.com/21-days.html)
 
+- [巴别塔之旅](https://sites.google.com/site/steveyegge2/tour-de-babel)
+
+- [你应该写博客](https://sites.google.com/site/steveyegge2/you-should-write-blogs)
+
 ## 技术决策与哲学
 
 - [为什么工程师无法理性看待编程语言](https://spf13.com/p/the-hidden-conversation/)
