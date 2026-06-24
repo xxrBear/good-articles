@@ -16,6 +16,10 @@
 
 - [你应该写博客](https://sites.google.com/site/steveyegge2/you-should-write-blogs)
 
+- [抽象泄露定律](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+
+- [火力与机动](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
+
 ## 技术决策与哲学
 
 - [为什么工程师无法理性看待编程语言](https://spf13.com/p/the-hidden-conversation/)
@@ -55,6 +59,8 @@
 - [Git 的故事：這一次沒這麼好玩](https://blog.brachiosoft.com/posts/git/)
 
 - [PostgreSQL正在吞噬数据库世界](https://mp.weixin.qq.com/s?__biz=MzU5ODAyNTM5Ng==&mid=2247487055&idx=1&sn=9d7bd8b6d9b07478dba7f87d0a663535&scene=21&poc_token=HHTs8WijrQRxMUigMWzRVxfO_98-ZlIcZ625m-3R)
+
+- [微软如何输掉了 API 战争](https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/)
 
 
 ## 最佳技术实践
