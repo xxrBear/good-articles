@@ -10,7 +10,7 @@
 
 - [我认识的最优秀的程序员](https://endler.dev/2025/best-programmers/)
 
-- [用十年自学编程](https://norvig.com/21-days.html)
+- [十年自学编程](https://norvig.com/21-days.html)
 
 - [巴别塔之旅](https://sites.google.com/site/steveyegge2/tour-de-babel)
 
@@ -51,6 +51,10 @@
 - [你的工作不是编程](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
 
 - [你永远不该做的事，第一部分](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
+- [为什么选择 Ruby？](https://blog.codinghorror.com/why-ruby/)
+
+- [弱类型是否足够强大？](https://sites.google.com/site/steveyegge2/is-weak-typing-strong-enough)
 
 ## 技术故事
 
