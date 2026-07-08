@@ -56,6 +56,8 @@
 
 - [弱类型是否足够强大？](https://sites.google.com/site/steveyegge2/is-weak-typing-strong-enough)
 
+- [一致性、正确性与工匠精神](https://www.developerdotstar.com/mag/articles/read_consistency.html)
+
 ## 技术故事
 
 - [白話 Session 與 Cookie：從經營雜貨店開始](https://life.huli.tw/2019/08/09/session-and-cookie-15e47ed838bc/)
