@@ -22,19 +22,23 @@
 
 ## 技术决策与哲学
 
-- [为什么工程师无法理性看待编程语言](https://spf13.com/p/the-hidden-conversation/)
+- [大教堂与集市](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
 - [選擇無聊的技術](https://boringtechnology.club/index_zh_TW.html)
-
-- [重新发明轮子](https://endler.dev/2025/reinvent-the-wheel/)
-
-- [每位计算机科学专业学生都应了解的知识](https://matt.might.net/articles/what-cs-majors-should-know/)
-
-- [软件工程的 13 条定律](https://newsletter.manager.dev/p/the-13-software-engineering-laws)
 
 - [认知负荷才是关键](https://github.com/zakirullin/cognitive-load/blob/main/README.zh-cn.md)
 
 - [我做系统架构的一些原则](https://coolshell.cn/articles/21672.html)
+
+- [每位计算机科学专业学生都应了解的知识](https://matt.might.net/articles/what-cs-majors-should-know/)
+
+- [你永远不该做的事，第一部分](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
+- [为什么工程师无法理性看待编程语言](https://spf13.com/p/the-hidden-conversation/)
+
+- [重新发明轮子](https://endler.dev/2025/reinvent-the-wheel/)
+
+- [软件工程的 13 条定律](https://newsletter.manager.dev/p/the-13-software-engineering-laws)
 
 - [没人因简洁而晋升](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 
@@ -50,15 +54,12 @@
 
 - [你的工作不是编程](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
 
-- [你永远不该做的事，第一部分](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
-
 - [为什么选择 Ruby？](https://blog.codinghorror.com/why-ruby/)
 
 - [弱类型是否足够强大？](https://sites.google.com/site/steveyegge2/is-weak-typing-strong-enough)
 
 - [一致性、正确性与工匠精神](https://www.developerdotstar.com/mag/articles/read_consistency.html)
 
-- [现代软件过度工程错误](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 
 ## 技术故事
 
@@ -82,3 +83,5 @@
 - [为何我们坚持使用 Ruby on Rails](https://about.gitlab.com/blog/why-were-sticking-with-ruby-on-rails/)
 
 - [Instagram 如何仅凭 3 名工程师扩展至 1400 万用户](https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million)
+
+- [现代软件过度工程错误](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
