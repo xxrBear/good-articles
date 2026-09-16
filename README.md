@@ -20,6 +20,8 @@
 
 - [火力与机动](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 
+- [The Grug Brained Developer](https://reidjs.github.io/grug-dev-translation/)
+
 ## 技术决策与哲学
 
 - [大教堂与集市](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
@@ -60,6 +62,8 @@
 
 - [一致性、正确性与工匠精神](https://www.developerdotstar.com/mag/articles/read_consistency.html)
 
+- [脏代码编程](https://htmx.org/essays/codin-dirty/#dirty-testing)
+
 
 ## 技术故事
 
@@ -70,6 +74,9 @@
 - [PostgreSQL正在吞噬数据库世界](https://mp.weixin.qq.com/s?__biz=MzU5ODAyNTM5Ng==&mid=2247487055&idx=1&sn=9d7bd8b6d9b07478dba7f87d0a663535&scene=21&poc_token=HHTs8WijrQRxMUigMWzRVxfO_98-ZlIcZ625m-3R)
 
 - [微软如何输掉了 API 战争](https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/)
+
+- [我为什么离开谷歌加入 Grab](https://steve-yegge.medium.com/why-i-left-google-to-join-grab-86dfffc0be84)
+
 
 
 ## 最佳技术实践
@@ -85,3 +92,7 @@
 - [Instagram 如何仅凭 3 名工程师扩展至 1400 万用户](https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million)
 
 - [现代软件过度工程错误](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+
+- [优秀的代码要写两遍（甚至更多）](https://www.royvanrijn.com/blog/2011/10/great-code-is-written-twice-or-more/)
+
+- [解构单体架构：设计能最大化开发者生产力的软件](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
