@@ -22,6 +22,8 @@
 
 - [The Grug Brained Developer](https://reidjs.github.io/grug-dev-translation/)
 
+- [四十年的职业生涯](https://lethain.com/forty-year-career/)
+
 ## 技术决策与哲学
 
 - [大教堂与集市](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
