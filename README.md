@@ -24,6 +24,7 @@
 
 - [四十年的职业生涯](https://lethain.com/forty-year-career/)
 
+
 ## 技术决策与哲学
 
 - [大教堂与集市](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
@@ -66,6 +67,14 @@
 
 - [脏代码编程](https://htmx.org/essays/codin-dirty/#dirty-testing)
 
+- [为简单架构辩护](https://danluu.com/simple-architectures/)
+
+- [当下最简最优系统](https://dannorth.net/blog/best-simple-system-for-now/)
+
+- [线性代码更易读](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
+
+- [重构——不在待办事项列表中！](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
+
 
 ## 技术故事
 
@@ -73,12 +82,17 @@
 
 - [Git 的故事：這一次沒這麼好玩](https://blog.brachiosoft.com/posts/git/)
 
-- [PostgreSQL正在吞噬数据库世界](https://mp.weixin.qq.com/s?__biz=MzU5ODAyNTM5Ng==&mid=2247487055&idx=1&sn=9d7bd8b6d9b07478dba7f87d0a663535&scene=21&poc_token=HHTs8WijrQRxMUigMWzRVxfO_98-ZlIcZ625m-3R)
+- [PostgreSQL正在吞噬数据库世界](https://vonng.com/pg/so2025-pg/)
 
 - [微软如何输掉了 API 战争](https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/)
 
 - [我为什么离开谷歌加入 Grab](https://steve-yegge.medium.com/why-i-left-google-to-join-grab-86dfffc0be84)
 
+- [在生产环境中使用 Haskell](https://agentultra.com/blog/using-haskell-in-production/)
+
+- [在生产环境中艰难学习 Redis](https://tech.trivago.com/post/learn-redis-the-hard-way)
+
+- [缓慢的软件](https://www.inkandswitch.com/slow-software/#what-feels-slow)
 
 
 ## 最佳技术实践
