@@ -112,3 +112,5 @@
 - [优秀的代码要写两遍（甚至更多）](https://www.royvanrijn.com/blog/2011/10/great-code-is-written-twice-or-more/)
 
 - [解构单体架构：设计能最大化开发者生产力的软件](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
+
+- [如何构建更小的容器镜像：Docker 多阶段构建](https://labs.iximiuz.com/tutorials/docker-multi-stage-builds)
